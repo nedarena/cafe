@@ -1,0 +1,115 @@
+D:\Проекты\Menu\Menu\bin\Debug\net6.0-windows\Menu.exe
+D:\Проекты\Menu\Menu\bin\Debug\net6.0-windows\Menu.deps.json
+D:\Проекты\Menu\Menu\bin\Debug\net6.0-windows\Menu.runtimeconfig.json
+D:\Проекты\Menu\Menu\bin\Debug\net6.0-windows\Menu.dll
+D:\Проекты\Menu\Menu\bin\Debug\net6.0-windows\Menu.pdb
+D:\Проекты\Menu\Menu\obj\Debug\net6.0-windows\Menu.csproj.AssemblyReference.cache
+D:\Проекты\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form1.resources
+D:\Проекты\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form2.resources
+D:\Проекты\Menu\Menu\obj\Debug\net6.0-windows\Menu.csproj.GenerateResource.cache
+D:\Проекты\Menu\Menu\obj\Debug\net6.0-windows\Menu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\Menu\Menu\obj\Debug\net6.0-windows\Menu.AssemblyInfoInputs.cache
+D:\Проекты\Menu\Menu\obj\Debug\net6.0-windows\Menu.AssemblyInfo.cs
+D:\Проекты\Menu\Menu\obj\Debug\net6.0-windows\Menu.csproj.CoreCompileInputs.cache
+D:\Проекты\Menu\Menu\obj\Debug\net6.0-windows\Menu.dll
+D:\Проекты\Menu\Menu\obj\Debug\net6.0-windows\refint\Menu.dll
+D:\Проекты\Menu\Menu\obj\Debug\net6.0-windows\Menu.pdb
+D:\Проекты\Menu\Menu\obj\Debug\net6.0-windows\Menu.genruntimeconfig.cache
+D:\Проекты\Menu\Menu\obj\Debug\net6.0-windows\ref\Menu.dll
+D:\Проекты\Menu\Menu\obj\Debug\net6.0-windows\Menu.Properties.Resources.resources
+D:\Проекты\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form3.resources
+D:\Проекты\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form4.resources
+D:\Проекты\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form5.resources
+D:\Проекты\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form6.resources
+E:\Menu\Menu\bin\Debug\net6.0-windows\Menu.exe
+E:\Menu\Menu\bin\Debug\net6.0-windows\Menu.deps.json
+E:\Menu\Menu\bin\Debug\net6.0-windows\Menu.runtimeconfig.json
+E:\Menu\Menu\bin\Debug\net6.0-windows\Menu.dll
+E:\Menu\Menu\bin\Debug\net6.0-windows\ref\Menu.dll
+E:\Menu\Menu\bin\Debug\net6.0-windows\Menu.pdb
+E:\Menu\Menu\obj\Debug\net6.0-windows\Menu.csproj.AssemblyReference.cache
+E:\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form1.resources
+E:\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form2.resources
+E:\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form3.resources
+E:\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form4.resources
+E:\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form5.resources
+E:\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form6.resources
+E:\Menu\Menu\obj\Debug\net6.0-windows\Menu.Properties.Resources.resources
+E:\Menu\Menu\obj\Debug\net6.0-windows\Menu.csproj.GenerateResource.cache
+E:\Menu\Menu\obj\Debug\net6.0-windows\Menu.GeneratedMSBuildEditorConfig.editorconfig
+E:\Menu\Menu\obj\Debug\net6.0-windows\Menu.AssemblyInfoInputs.cache
+E:\Menu\Menu\obj\Debug\net6.0-windows\Menu.AssemblyInfo.cs
+E:\Menu\Menu\obj\Debug\net6.0-windows\Menu.csproj.CoreCompileInputs.cache
+E:\Menu\Menu\obj\Debug\net6.0-windows\Menu.dll
+E:\Menu\Menu\obj\Debug\net6.0-windows\ref\Menu.dll
+E:\Menu\Menu\obj\Debug\net6.0-windows\Menu.pdb
+E:\Menu\Menu\obj\Debug\net6.0-windows\Menu.genruntimeconfig.cache
+D:\Menu\Menu\bin\Debug\net6.0-windows\Menu.exe
+D:\Menu\Menu\bin\Debug\net6.0-windows\Menu.deps.json
+D:\Menu\Menu\bin\Debug\net6.0-windows\Menu.runtimeconfig.json
+D:\Menu\Menu\bin\Debug\net6.0-windows\Menu.dll
+D:\Menu\Menu\bin\Debug\net6.0-windows\ref\Menu.dll
+D:\Menu\Menu\bin\Debug\net6.0-windows\Menu.pdb
+D:\Menu\Menu\obj\Debug\net6.0-windows\Menu.csproj.AssemblyReference.cache
+D:\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form1.resources
+D:\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form2.resources
+D:\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form3.resources
+D:\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form4.resources
+D:\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form5.resources
+D:\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form6.resources
+D:\Menu\Menu\obj\Debug\net6.0-windows\Menu.Properties.Resources.resources
+D:\Menu\Menu\obj\Debug\net6.0-windows\Menu.csproj.GenerateResource.cache
+D:\Menu\Menu\obj\Debug\net6.0-windows\Menu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Menu\Menu\obj\Debug\net6.0-windows\Menu.AssemblyInfoInputs.cache
+D:\Menu\Menu\obj\Debug\net6.0-windows\Menu.AssemblyInfo.cs
+D:\Menu\Menu\obj\Debug\net6.0-windows\Menu.csproj.CoreCompileInputs.cache
+D:\Menu\Menu\obj\Debug\net6.0-windows\Menu.dll
+D:\Menu\Menu\obj\Debug\net6.0-windows\ref\Menu.dll
+D:\Menu\Menu\obj\Debug\net6.0-windows\Menu.pdb
+D:\Menu\Menu\obj\Debug\net6.0-windows\Menu.genruntimeconfig.cache
+C:\Users\student106.IT\Desktop\Проект\Menu\Menu\bin\Debug\net6.0-windows\Menu.exe
+C:\Users\student106.IT\Desktop\Проект\Menu\Menu\bin\Debug\net6.0-windows\Menu.deps.json
+C:\Users\student106.IT\Desktop\Проект\Menu\Menu\bin\Debug\net6.0-windows\Menu.runtimeconfig.json
+C:\Users\student106.IT\Desktop\Проект\Menu\Menu\bin\Debug\net6.0-windows\Menu.dll
+C:\Users\student106.IT\Desktop\Проект\Menu\Menu\bin\Debug\net6.0-windows\ref\Menu.dll
+C:\Users\student106.IT\Desktop\Проект\Menu\Menu\bin\Debug\net6.0-windows\Menu.pdb
+C:\Users\student106.IT\Desktop\Проект\Menu\Menu\obj\Debug\net6.0-windows\Menu.csproj.AssemblyReference.cache
+C:\Users\student106.IT\Desktop\Проект\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form1.resources
+C:\Users\student106.IT\Desktop\Проект\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form2.resources
+C:\Users\student106.IT\Desktop\Проект\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form3.resources
+C:\Users\student106.IT\Desktop\Проект\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form4.resources
+C:\Users\student106.IT\Desktop\Проект\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form5.resources
+C:\Users\student106.IT\Desktop\Проект\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form6.resources
+C:\Users\student106.IT\Desktop\Проект\Menu\Menu\obj\Debug\net6.0-windows\Menu.Properties.Resources.resources
+C:\Users\student106.IT\Desktop\Проект\Menu\Menu\obj\Debug\net6.0-windows\Menu.csproj.GenerateResource.cache
+C:\Users\student106.IT\Desktop\Проект\Menu\Menu\obj\Debug\net6.0-windows\Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student106.IT\Desktop\Проект\Menu\Menu\obj\Debug\net6.0-windows\Menu.AssemblyInfoInputs.cache
+C:\Users\student106.IT\Desktop\Проект\Menu\Menu\obj\Debug\net6.0-windows\Menu.AssemblyInfo.cs
+C:\Users\student106.IT\Desktop\Проект\Menu\Menu\obj\Debug\net6.0-windows\Menu.csproj.CoreCompileInputs.cache
+C:\Users\student106.IT\Desktop\Проект\Menu\Menu\obj\Debug\net6.0-windows\Menu.dll
+C:\Users\student106.IT\Desktop\Проект\Menu\Menu\obj\Debug\net6.0-windows\ref\Menu.dll
+C:\Users\student106.IT\Desktop\Проект\Menu\Menu\obj\Debug\net6.0-windows\Menu.pdb
+C:\Users\student106.IT\Desktop\Проект\Menu\Menu\obj\Debug\net6.0-windows\Menu.genruntimeconfig.cache
+I:\244-ИСП\244ИСП\ОАиП\Хайбрахманов\Проект- Ресторан\Menu\Menu\bin\Debug\net6.0-windows\Menu.exe
+I:\244-ИСП\244ИСП\ОАиП\Хайбрахманов\Проект- Ресторан\Menu\Menu\bin\Debug\net6.0-windows\Menu.deps.json
+I:\244-ИСП\244ИСП\ОАиП\Хайбрахманов\Проект- Ресторан\Menu\Menu\bin\Debug\net6.0-windows\Menu.runtimeconfig.json
+I:\244-ИСП\244ИСП\ОАиП\Хайбрахманов\Проект- Ресторан\Menu\Menu\bin\Debug\net6.0-windows\Menu.dll
+I:\244-ИСП\244ИСП\ОАиП\Хайбрахманов\Проект- Ресторан\Menu\Menu\bin\Debug\net6.0-windows\ref\Menu.dll
+I:\244-ИСП\244ИСП\ОАиП\Хайбрахманов\Проект- Ресторан\Menu\Menu\bin\Debug\net6.0-windows\Menu.pdb
+I:\244-ИСП\244ИСП\ОАиП\Хайбрахманов\Проект- Ресторан\Menu\Menu\obj\Debug\net6.0-windows\Menu.csproj.AssemblyReference.cache
+I:\244-ИСП\244ИСП\ОАиП\Хайбрахманов\Проект- Ресторан\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form1.resources
+I:\244-ИСП\244ИСП\ОАиП\Хайбрахманов\Проект- Ресторан\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form2.resources
+I:\244-ИСП\244ИСП\ОАиП\Хайбрахманов\Проект- Ресторан\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form3.resources
+I:\244-ИСП\244ИСП\ОАиП\Хайбрахманов\Проект- Ресторан\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form4.resources
+I:\244-ИСП\244ИСП\ОАиП\Хайбрахманов\Проект- Ресторан\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form5.resources
+I:\244-ИСП\244ИСП\ОАиП\Хайбрахманов\Проект- Ресторан\Menu\Menu\obj\Debug\net6.0-windows\Menu.Form6.resources
+I:\244-ИСП\244ИСП\ОАиП\Хайбрахманов\Проект- Ресторан\Menu\Menu\obj\Debug\net6.0-windows\Menu.Properties.Resources.resources
+I:\244-ИСП\244ИСП\ОАиП\Хайбрахманов\Проект- Ресторан\Menu\Menu\obj\Debug\net6.0-windows\Menu.csproj.GenerateResource.cache
+I:\244-ИСП\244ИСП\ОАиП\Хайбрахманов\Проект- Ресторан\Menu\Menu\obj\Debug\net6.0-windows\Menu.GeneratedMSBuildEditorConfig.editorconfig
+I:\244-ИСП\244ИСП\ОАиП\Хайбрахманов\Проект- Ресторан\Menu\Menu\obj\Debug\net6.0-windows\Menu.AssemblyInfoInputs.cache
+I:\244-ИСП\244ИСП\ОАиП\Хайбрахманов\Проект- Ресторан\Menu\Menu\obj\Debug\net6.0-windows\Menu.AssemblyInfo.cs
+I:\244-ИСП\244ИСП\ОАиП\Хайбрахманов\Проект- Ресторан\Menu\Menu\obj\Debug\net6.0-windows\Menu.csproj.CoreCompileInputs.cache
+I:\244-ИСП\244ИСП\ОАиП\Хайбрахманов\Проект- Ресторан\Menu\Menu\obj\Debug\net6.0-windows\Menu.dll
+I:\244-ИСП\244ИСП\ОАиП\Хайбрахманов\Проект- Ресторан\Menu\Menu\obj\Debug\net6.0-windows\ref\Menu.dll
+I:\244-ИСП\244ИСП\ОАиП\Хайбрахманов\Проект- Ресторан\Menu\Menu\obj\Debug\net6.0-windows\Menu.pdb
+I:\244-ИСП\244ИСП\ОАиП\Хайбрахманов\Проект- Ресторан\Menu\Menu\obj\Debug\net6.0-windows\Menu.genruntimeconfig.cache
